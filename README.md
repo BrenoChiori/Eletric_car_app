@@ -2,7 +2,7 @@
 
 Este e um app desenvolvido durante o curso de Android com Kotlin da DIO, com o objetivo de ensinar do zero o desenvolvimento de um app em Android Nativo
 
-[<img src="C:\Users\Cliente\Downloads\carApp.png" alt="Car App" width="200"/>]
+[<img src="https://user-images.githubusercontent.com/5827265/188477525-a7211bc6-7384-4f5f-8d49-12a8322892d1.png" alt="Car App" width="200"/>]
 
 ## Descrição
 
